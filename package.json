@@ -7,16 +7,6 @@
     "build": "webpack -p",
     "start": "webpack -p && webpack-dev-server --hot --progress --colors --inline"
   },
-  "keywords": [
-    "BG",
-    "Bhargav",
-    "Gandhi",
-    "React",
-    "Starter",
-    "Kit"
-  ],
-  "author": "Bhargav Gandhi",
-  "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.23.0",
     "babel-core": "^6.23.1",
@@ -40,5 +30,20 @@
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
-  }
+  },
+  "keywords": [
+    "BG",
+    "Bhargav",
+    "Gandhi",
+    "React",
+    "Starter",
+    "Kit"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargavgandhi/bg-react-starter-kit.git"
+  },
+  "author": "Bhargav Gandhi",
+  "license": "ISC",
+  "homepage": "https://github.com/bhargavgandhi/bg-react-starter-kit#README.md"
 }
